@@ -1,0 +1,11 @@
+2021-06-04T20:08:47+00:00 CRITICAL /home/esraden1/cocolungo.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php dosyasında 10 numaralı satırda Uncaught Error: Class 'ActionScheduler_Abstract_Schema' not found in /home/esraden1/cocolungo.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php:10
+Stack trace:
+#0 /home/esraden1/cocolungo.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler.php(122): include()
+#1 [internal function]: ActionScheduler::autoload('ActionScheduler...')
+#2 /home/esraden1/cocolungo.com/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(24): spl_autoload_call('ActionScheduler...')
+#3 /home/esraden1/cocolungo.com/wp-includes/class-wp-hook.php(290): ActionScheduler_DBStore->init()
+#4 /home/esraden1/cocolungo.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 /home/esraden1/cocolungo.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/esraden1/cocolungo.com/wp-settings.php(560): do_action('init')
+#
+

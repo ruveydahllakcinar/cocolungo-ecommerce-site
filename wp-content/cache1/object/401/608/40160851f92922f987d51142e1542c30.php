@@ -1,0 +1,1 @@
+_=`<?php exit; ?>a:1:{s:7:"content";a:5:{s:17:"neve_meta_sidebar";a:1:{i:0;s:10:"full-width";}s:30:"neve_meta_enable_content_width";a:1:{i:0;s:2:"on";}s:23:"neve_meta_content_width";a:1:{i:0;s:3:"100";}s:17:"_wp_page_template";a:1:{i:0;s:0:"";}s:10:"_edit_lock";a:1:{i:0;s:12:"1614210230:2";}}}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Spotify Kodlu Takvim &#8211; Cocolungo</title>
+	<atom:link href="https://www.cocolungo.com/urun-kategori/spotify-kodlu-takvim/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.cocolungo.com</link>
+	<description>Özelleştirilebilir Hediyeler</description>
+	<lastBuildDate>Mon, 10 May 2021 19:58:05 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.cocolungo.com/wp-content/uploads/2021/03/cropped-cropped-CocoLungo112_cocolungo3__1_-removebg-preview-32x32.png</url>
+	<title>Spotify Kodlu Takvim &#8211; Cocolungo</title>
+	<link>https://www.cocolungo.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kişiye Özel Tasarım Takvim</title>
+		<link>https://www.cocolungo.com/urunler/kisiye-ozel-tasarim-takvim/</link>
+					<comments>https://www.cocolungo.com/urunler/kisiye-ozel-tasarim-takvim/#respond</comments>
+		
+		<dc:creator><![CDATA[admin admin2]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2021 23:18:26 +0000</pubDate>
+				<guid isPermaLink="false">https://www.cocolungo.com/?post_type=product&#038;p=867</guid>
+
+					<description><![CDATA[<h4><strong>Ürün tasarımını oluşturmak için bu formu doldurmanız gerekmektedir.</strong></h4>
+<h3><a style="color: red;" href="https://forms.gle/soBy1HCGB5fqo7x1A">https://forms.gle/soBy1HCGB5fqo7x1A</a></h3>]]></description>
+										<content:encoded><![CDATA[<p>Kişiye Özel Tasarım Takvim için,</p>
+<ul>
+<li>Şarkınızı seçin.</li>
+<li>Şarkının görselini belirleyin.</li>
+<li>Ürün Ölçüleri : 20&#215;25 dir.</li>
+<li>ÖNEMLİ : Baskı kalitesi yüklediğiniz fotoğrafların kalitesi ile doğru orantılıdır. Yüklediğiniz fotoğraflar kırpma işlemi yapılarak kare formatına dönüştürülmektedir. Yüklediğiniz fotoğrafta tam beyaz renk olmamalıdır.( Güneş Yansıması, Parlak Beyaz Renk, Çok Açık Beyaz Renk)</li>
+<li>Tek bir şarkı veya link paylaşılabilir.</li>
+<li>Ürün barkodu sadece Spotify uygulamasında çalışmaktadır.</li>
+<li>Spotify uygulaması üzerinden QR kodu okutarak şarkınızı dinleyebilirsiniz.</li>
+<li>Shopier hesabımıza <a href="https://www.shopier.com/cocolungo/" target="_blank" rel="noopener">buradan</a> ulaşabilirsiniz.</li>
+<li>Ürünlerimizin nasıl kullanıldığını merak ediyorsanız <a href="https://www.cocolungo.com/blog/">blog </a>sayfamıza bakabilirsiniz.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cocolungo.com/urunler/kisiye-ozel-tasarim-takvim/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

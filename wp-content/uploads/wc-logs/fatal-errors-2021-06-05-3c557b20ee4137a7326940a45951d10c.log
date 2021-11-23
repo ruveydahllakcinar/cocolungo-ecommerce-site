@@ -1,0 +1,4 @@
+2021-06-05T13:29:27+00:00 CRITICAL /home/esraden1/cocolungo.com/wp-content/plugins/otter-blocks/vendor/composer/ClassLoader.php dosyasında 478 numaralı satırda Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes)
+
+2021-06-05T13:29:29+00:00 CRITICAL /home/esraden1/cocolungo.com/wp-content/plugins/otter-blocks/vendor/codeinwp/gutenberg-blocks/inc/class-base-css.php dosyasında 227 numaralı satırda Allowed memory size of 41943040 bytes exhausted (tried to allocate 528384 bytes)
+

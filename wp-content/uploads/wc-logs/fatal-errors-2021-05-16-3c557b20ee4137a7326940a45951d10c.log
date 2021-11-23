@@ -1,0 +1,2 @@
+2021-05-16T23:46:02+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 331776 bytes) in /home/esraden1/cocolungo.com/wp-includes/pomo/streams.php on line 215
+

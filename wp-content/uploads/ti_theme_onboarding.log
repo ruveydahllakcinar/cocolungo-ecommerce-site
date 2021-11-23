@@ -1,0 +1,24 @@
+[25/Mar/2021:19:37:32] (I): WordPress Instance Info:
+[25/Mar/2021:19:37:32] (I): Home URL : https://www.cocolungo.com
+[25/Mar/2021:19:37:32] (I): Site URL : https://www.cocolungo.com
+[25/Mar/2021:19:37:32] (I): WordPress Version : 5.7
+[25/Mar/2021:19:37:32] (I): Onboarding Version : 1.1.6
+[25/Mar/2021:19:37:32] (I): Multisite : No
+[25/Mar/2021:19:37:32] (I): Server Info : LiteSpeed
+[25/Mar/2021:19:37:32] (I): PHP Version : 7.3.26
+[25/Mar/2021:19:37:32] (I): HTTPS : Yes
+[25/Mar/2021:19:37:32] (I): PHP Max Execution Time : 300
+[25/Mar/2021:19:37:32] (I): PHP Max Input Vars : 6000
+[25/Mar/2021:19:37:32] (I): Max Upload Size : 2097152
+[25/Mar/2021:19:37:32] (I): Plugins:
+[25/Mar/2021:19:37:32] (I): [PLUGIN] Contact Form 7 : v5.4 (Takayuki Miyoshi)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] Google tarafından Site Kit : v1.28.0 (Google)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] Google XML Sitemaps : v4.1.1 (Auctollo)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.6.1 (ThemeIsle)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] Really Simple SSL : v4.0.11 (Really Simple Plugins)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] Rank Math SEO : v1.0.60.1 (Rank Math)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] WooCommerce Pay with Credit Card : v1.0.8 (Shopier)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] Templates Patterns Collection : v1.1.6 (ThemeIsle)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] WooCommerce : v5.1.0 (Automattic)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] WP Fastest Cache Premium : v1.5.9 (Emre Vona)
+[25/Mar/2021:19:37:32] (I): [PLUGIN] WP Fastest Cache : v0.9.1.6 (Emre Vona)
